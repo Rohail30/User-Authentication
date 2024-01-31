@@ -40,13 +40,13 @@ To run the Secure Sign user authentication project, ensure you have the followin
 # User Interface
 <Details>
    
-# Home Page
+### Home Page
 <img src="https://github.com/Rohail30/User-Authentication/blob/main/ss1.png" alt="Home Page" width="800" height="600">
 
-# Login Page
+### Login Page
 <img src="https://github.com/Rohail30/User-Authentication/blob/main/ss2.png" alt="Login Page" width="800" height="600">
 
-# Signup Page
+### Signup Page
 <img src="https://github.com/Rohail30/User-Authentication/blob/main/ss3.png" alt="Signup Page" width="800" height="600">
 
 </Details>

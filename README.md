@@ -20,7 +20,7 @@ To run the Secure Sign user authentication project, ensure you have the followin
 # To start the Project
 1. Clone the repository: 
    ```
-   git clone https://github.com/Rohail30/Quest-Rush.git
+   git clone https://github.com/Rohail30/User-Authentication.git
    ```
 2. Install dependencies:
    ```
@@ -28,6 +28,6 @@ To run the Secure Sign user authentication project, ensure you have the followin
    ```
 3. Start the server:
    ```
-   npm start
+   npm run devStart
    ```
 4. Access the app by visiting http://localhost:3000

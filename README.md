@@ -37,10 +37,10 @@ To run the Secure Sign user authentication project, ensure you have the followin
 # User Interface
 
 ### Home Page
-![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss1.jpg)
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss1.png)
 
 ### Login Page
-![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss2.jpg)
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss2.png)
 
 ### Signup Page
-![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss3.jpg)
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss3.png)

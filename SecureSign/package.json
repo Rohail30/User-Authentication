@@ -1,0 +1,21 @@
+{
+  "name": "securesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon src/app.js -e js,hbs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

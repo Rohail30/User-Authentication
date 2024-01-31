@@ -1,5 +1,7 @@
-# User-Authentication
-Introducing Secure Sign, a user authentication project built with Node.js, MongoDB, and Express. Seamlessly sign up, providing your data, securely stored in a MongoDB database. Access the login page with the stored credentials, and enjoy a personalized experience on the home page. Experience a robust authentication system with simplicity at its core.
+# Secure Sign
+Introducing Secure Sign, a user authentication project crafted with simplicity and security in mind. Built with Node.js, MongoDB, and Express, this project seamlessly handles user sign-ups, securely storing provided data in a MongoDB database. Utilizing bcrypt with a strength factor of 10 for hashing, the login page ensures a robust authentication system. Experience the ease of access to the home page, providing a personalized and secure user experience.
+
+## Prerequisites
 
 # Secure Sign - Prerequisites
 
@@ -31,3 +33,14 @@ To run the Secure Sign user authentication project, ensure you have the followin
    npm run devStart
    ```
 4. Access the app by visiting http://localhost:3000
+
+# User Interface
+
+### Home Page
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss1.jpg)
+
+### Login Page
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss2.jpg)
+
+### Signup Page
+![Screenshot](https://github.com/Rohail30/User-Authentication/blob/main/ss3.jpg)
